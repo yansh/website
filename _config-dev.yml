@@ -1,4 +1,4 @@
 # For local testing, run:
 # bundle exec jekyll serve --config _config.yml,_config-dev.yml
 #http://cs.nyu.edu/~yansh
-url: https://yansh.github.io
+url: https://yansh.github.io/website
