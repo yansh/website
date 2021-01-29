@@ -7,7 +7,8 @@ layout: page
 
 Yan Shvartzshnaider is an Assistant Professor in the Department of Electrical
 Engineering and Computer Science, Lassonde School of Engineering at York
-University. <br/> Prior to York, he was an Assistant Professor/Faculty Fellow in the Courant
+University. 
+<br/><br/> Prior to York, he was an Assistant Professor/Faculty Fellow in the Courant
 Institute of Mathematical Sciences at NYU,  affiliated with <a
 href="https://cs.nyu.edu/acsys/">Analysis of Computer Systems (ACSys) </a> and
 <a href="http://nyunetworks.com">Open Networks and Big Data Lab</a> groups. He
