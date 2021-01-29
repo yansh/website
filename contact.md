@@ -16,8 +16,8 @@ layout: page
   <br/>
   <label>
     Your message:
-    <textarea name="message"></textarea>
   </label>
+    <textarea name="message"></textarea>
 
   <!-- your other form fields go here -->
 
