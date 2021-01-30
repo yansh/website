@@ -18,11 +18,11 @@ Tech</a> and at the <a href="https://citp.princeton.edu/citp-people/yan-shvartzs
 </div>
 <p/>
 <div style="text-align: justify">  Yan received his Ph.D. in Engineering from
-the University of Sydney, Australia. His research focuses on people-centered
-privacy design which calls for the adoption of a socially meaningful conception
-of privacy, namely, one that meets people's expectation of privacy. 
+the University of Sydney, Australia. His research focuses on sociotechnical
+systems that incorporate a socially meaningful conception of privacy which meets
+peoples' expectations and is ethically defensible.
 </div>
 <p/>
 <div style="text-align: justify">
-In general, Yan is passionate about solving fundamental problems that have real-world impact as well as fascinated by the commercial side of transferring ideas into viable business propositions.
+Yan is passionate about solving fundamental problems that have real-world impact as well as fascinated by the commercial side of transferring ideas into viable business propositions.
 </div>
