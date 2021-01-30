@@ -4,22 +4,9 @@ layout: page
 ---
 
 <form action="https://formspree.io/f/xbjpwarl" method="POST"> 
-  <label>
-    Your Name:
-    <input type="text" name="name">
-  </label>
-  <br/>
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <br/>
-  <label>
-    Your message:
-  </label>
-    <textarea name="message"></textarea>
-
-  <!-- your other form fields go here -->
-
+    <input type="text" id="input-name" placeholder="Name">
+    <input type="email" id="input-email" placeholder="Email address">
+    <input type="text" id="input-subject" placeholder="Subject">     
+    <textarea name="message" type="text" id="input-message" placeholder="Message"></textarea>  
   <button type="submit">Send</button>
 </form>
