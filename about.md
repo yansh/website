@@ -7,7 +7,7 @@ layout: page
 
 Yan Shvartzshnaider is an Assistant Professor in the Department of Electrical
 Engineering and Computer Science, Lassonde School of Engineering at York
-University, where he runs the <a href="https://www.yorku.ca/lassonde/privacy/">Privacy Rhythm research lab.</a>
+University. He is the director of <a href="https://www.yorku.ca/lassonde/privacy/">the Privacy Rhythm research lab.</a>
 <br/><br/> Prior to York, he was an Assistant Professor/Faculty Fellow in the Courant
 Institute of Mathematical Sciences at NYU,  affiliated with <a
 href="https://cs.nyu.edu/acsys/">Analysis of Computer Systems (ACSys) </a> and
