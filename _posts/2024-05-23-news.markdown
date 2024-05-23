@@ -3,11 +3,16 @@ title: "A Unifying Framework for Contextual Norms and Information Governance"
 layout: post
 date: 2016-02-24 22:48
 headerImage: false
-category:
+category: blog
 author:
 description: GKC-CI: A Unifying Framework for Contextual Norms and Information Governance
 ---
 
+<div class="h-entry">
+	<p class="e-content">
+		GKC-CI: A Unifying Framework for Contextual Norms and Information Governance
+	</p>
+</div>
 
 > Designing technology that is attuned to ethical privacy considerations is a multifaceted challenge that requires a detailed understanding of the interplay between societal privacy norms, governance factors, and information handling practices in specific contexts. A grounding theoretical framework is needed to define the “right” research questions to untangle these interconnected factors across empirical studies from different disciplines.
 
