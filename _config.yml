@@ -1,6 +1,6 @@
 # main text of home
 name: Yan Shvartzshnaider
-bio:  York University
+bio: York University
 
 # twitter summary info
 description: Research and Teaching
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 #url: http://cs.nyu.edu/~yansh
-url:  https://yansh.github.io/website
+url: https://yansh.github.io/website
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -32,7 +32,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories:  # only show disqus for posts that have these categories
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -51,21 +51,21 @@ github: yansh
 # reddit: username
 #medium: medium
 # vimeo: myvimeo
-email:  contact
+email: contact
 
 #authors:
 #    johndoe:
 #        name: John Doe
 #        bio: A Man who travels the world eating noodles
-        #external-image: false
-        #picture: assets/images/profile.jpg
-        #twitter: johndoe
-    #jamesfoster:
-        #name: James Foster
-        #bio: A Man who develops software with coffee
-        #external-image: false
-        #picture: assets/images/james.jpg
-        #twitter: jamesfoster
+#external-image: false
+#picture: assets/images/profile.jpg
+#twitter: johndoe
+#jamesfoster:
+#name: James Foster
+#bio: A Man who develops software with coffee
+#external-image: false
+#picture: assets/images/james.jpg
+#twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -79,7 +79,6 @@ width: normal
 # if you don't need teaching, comment the *teaching* configs below
 teaching: true
 
-
 publications: true
 
 blogposts: true
@@ -87,7 +86,7 @@ blogposts: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 
-blog: false
+news: true
 
 # do you want to show the "read time" of the posts?
 #read-time: true
@@ -114,4 +113,4 @@ gems:
   #- jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
