@@ -1,7 +1,7 @@
 ---
 title: "Privacy Inserts"
 layout: post
-date: 2024-07-12 22:48
+date: 2024-12-07 09:00
 headerImage: false
 category: blog
 author: Yan
