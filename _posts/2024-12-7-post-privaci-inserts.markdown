@@ -1,5 +1,5 @@
 ---
-title: "A Unifying Framework for Contextual Norms and Information Governance"
+title: "Privacy Inserts"
 layout: post
 date: 2022-04-22 22:48
 headerImage: false
