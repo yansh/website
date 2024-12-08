@@ -7,7 +7,7 @@ category: blog
 author: Yan
 description: "Privacy Inserts"
 ---
-
+<a class="hidden" href="https://brid.gy/publish/mastodon"></a>
 <div class="aside">
 		<h4 class="title">
 			<div class="h-entry">
